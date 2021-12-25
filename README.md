@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a 31 year old engineer from Delhi, India and I'm passionate about technology, communities, and everything in-between. I've worked a little on Android Development, Design, Arduino and Open Source. I love to learn and contribute in any and every possible way. 
+
+### To know a little more about me...
+- 🐦 Twitter: [@manbirmarwah](https://twitter.com/manbirmarwah)
+- 👥 LinkedIn [/manbirmarwah](https://linkedin.com/in/manbirmarwah)
+- 👨‍💻 Blogs/Writings: [DEV Profile](https://dev.to/manbir)
+- 🚩 GitHub Campus Expert [Profile](https://githubcampus.expert/marwahmanbir)
+- 😄 [pronoun.is/he](http://pronoun.is/he)
+- 🕵️‍♂️ More ways to connect: [plu.us/manbir](https://plu.us/manbir)
